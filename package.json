@@ -2,11 +2,14 @@
   "name": "@kyletsang/semantic-release-config",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "release.config.js",
   "files": [
     "index.js"
   ],
   "author": "Kyle Tsang",
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kyletsang/semantic-release-config.git"
