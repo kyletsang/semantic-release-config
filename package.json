@@ -1,0 +1,27 @@
+{
+  "name": "@kyletsang/semantic-release-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "author": "Kyle Tsang",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyletsang/semantic-release-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kyletsang/semantic-release-config/issues"
+  },
+  "dependencies": {
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1"
+  },
+  "devDependencies": {
+    "semantic-release": "^21.0.7"
+  },
+  "peerDependencies": {
+    "semantic-release": "^21.0.7"
+  }
+}
