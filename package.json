@@ -22,9 +22,9 @@
     "@semantic-release/git": "^10.0.1"
   },
   "devDependencies": {
-    "semantic-release": "^21.0.7"
+    "semantic-release": "^22.0.5"
   },
   "peerDependencies": {
-    "semantic-release": "^21.0.7"
+    "semantic-release": ">=21.0.7"
   }
 }
